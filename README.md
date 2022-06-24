@@ -4,7 +4,7 @@
 
 . 🌱 Je suis actuellement dans la chaîne de blocs, avec l’utilisation de Meta mask, Web3 et solidity
 
-. 📫 Je travaille actuellement sur FOCUS DIGITAL en tant que developpeur backend
+. 📫 Je travaille actuellement chez FOCUS DIGITAL en tant que developpeur backend
 
 . 🌱 Demandez-moi n’importe quoi sur le codage avec python et java
 
