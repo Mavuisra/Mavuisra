@@ -1,13 +1,8 @@
-- 👋 Bonjour, je m’appelle israel mavu
+👨‍💻 **Israel Mavu - Software Developer**
 
-. 👀 Amoureux de la contribution Open Source et du plaidoyer spatial
+Hello, I'm Israel Mavu, a dedicated software developer with a passion for Open Source contribution and space advocacy. 
 
-. 📫 Je travaille actuellement chez Focus Digital en tant que developpeur backend
-
-. 🌱 Demandez-moi n’importe quoi sur le codage avec python et java
-
-. 💞️ Je cherche à collaborer sur n’importe quel projet en utilisant python
-<!---
-Mavuisra/Mavuisra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently employed at Focus Digital as a backend developer, I specialize in coding with Python and Java. With a keen interest in technology and a commitment to excellence, I am always eager to collaborate on innovative projects. Let's connect and bring ideas to life through the power of code. 
+🚀 #CodingEnthusiast 
+ #IAEnthusiast
+#SoftwareDeveloper
